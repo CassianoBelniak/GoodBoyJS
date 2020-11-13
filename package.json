@@ -1,0 +1,30 @@
+{
+  "name": "good-boy-js",
+  "version": "0.1.0",
+  "description": "A NodeJS boilerplate with Express, Pug and Sass",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CassianoBelniak/GoodBoyJS.git"
+  },
+  "keywords": [
+    "node",
+    "pug",
+    "sass"
+  ],
+  "author": "Cassiano Belniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CassianoBelniak/GoodBoyJS/issues"
+  },
+  "homepage": "https://github.com/CassianoBelniak/GoodBoyJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.4"
+  }
+}
